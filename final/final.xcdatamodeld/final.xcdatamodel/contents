@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Run" representedClassName=".Run" syncable="YES">
+        <attribute name="distance" optional="YES" attributeType="String"/>
+        <attribute name="duration" optional="YES" attributeType="String"/>
+        <attribute name="picture" optional="YES" attributeType="Binary"/>
+        <attribute name="timeStamp" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Run" positionX="-63" positionY="-18" width="128" height="89"/>
+    </elements>
+</model>
